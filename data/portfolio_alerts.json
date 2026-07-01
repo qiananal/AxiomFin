@@ -1,0 +1,31 @@
+[
+  {
+    "code": "002594",
+    "name": "比亚迪",
+    "buy_price": 137.37,
+    "quantity": 300,
+    "current_price": 83.3,
+    "change_rate": -2.0,
+    "pnl": -16221.0,
+    "pnl_pct": -39.36,
+    "market_value": 24990.0,
+    "signal": "HOLD",
+    "signal_label": "持有观望",
+    "net_score": -1,
+    "buy_signals": [
+      "RSI超卖(19.2)，反弹概率高",
+      "回踩支撑位82.78附近"
+    ],
+    "sell_signals": [
+      "跌破MA10支撑",
+      "短期均线走弱 (MA5<MA10)",
+      "MACD空头运行"
+    ],
+    "suggested_buy": 90.74,
+    "suggested_sell": 97.51,
+    "advice": "⚠️ 深度套牢超20%，不建议盲目割肉，关注反弹机会",
+    "alert_type": "WARNING",
+    "alert_level": 2,
+    "update_time": "2026-06-24 17:19:46"
+  }
+]

@@ -1,0 +1,17 @@
+{
+    "account_balance": 168540.5,
+    "holdings": [
+        {
+            "stock_code": "002463",
+            "stock_name": "沪电股份",
+            "buy_price": 31.2,
+            "quantity": 1500
+        },
+        {
+            "stock_code": "002594",
+            "stock_name": "比亚迪",
+            "buy_price": 137.37,
+            "quantity": 300
+        }
+    ]
+}

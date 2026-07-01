@@ -1,0 +1,21 @@
+
+config.yaml
+*.env
+
+#  Python 运行时自动生成的本地垃圾缓存（不参与代码协作）
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 临时数据与本地 IDE 配置文件
+.vscode/
+.idea/
+*.log
+.DS_Store
